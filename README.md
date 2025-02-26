@@ -22,6 +22,9 @@ The model has been trained and tested using the following datasets from **Kaggle
 
 These datasets contain essential health parameters such as age, cholesterol levels, blood pressure, and lifestyle factors, which are used for training the model.
 
+## 🌐 Demo
+🔗 **Live App:** [Heart Attack Risk Prediction](https://huggingface.co/spaces/sfy45/heart-attack-risk-prediction)
+
 ## 🚀 Installation & Setup
 
 ### 🔹 1. Clone the Repository
