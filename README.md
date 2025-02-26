@@ -17,8 +17,8 @@ This project is a **Machine Learning-based Heart Attack Risk Prediction System**
 
 ## 📊 Datasets Used
 The model has been trained and tested using the following datasets from **Kaggle**:
-1. **Heart Disease UCI Dataset** - [Link](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
-2. **Framingham Heart Study Dataset** - [Link](https://www.kaggle.com/datasets/captainozlem/framingham-heart-study-dataset)
+1. **Heart Disease Dataset by John Smith** - [Link](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+2. **Heart Disease Dataset by Yasser H** - [Link](https://www.kaggle.com/datasets/yasserh/heart-disease-dataset)
 
 These datasets contain essential health parameters such as age, cholesterol levels, blood pressure, and lifestyle factors, which are used for training the model.
 
