@@ -1,0 +1,15 @@
+
+streamlit
+pandas
+matplotlib
+pycaret[full]
+scikit-learn
+numpy
+scipy
+joblib
+seaborn
+mlflow
+lightgbm
+xgboost
+ipython
+ipywidgets
